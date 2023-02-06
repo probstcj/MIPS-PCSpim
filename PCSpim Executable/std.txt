@@ -1,0 +1,32 @@
+License request failed for feature
+
+Requesting PROE_Educ1 ...
+7788@proe.siue.edu: (-10) Feature has expired.
+
+Displaying status for license file: 7788@proe.siue.edu
+License Server is UP: proe.siue.edu 00-B0-D0-3D-6D-54
+
+  Warning (-97): The desired vendor daemon is down.
+ Check the lmgrd log file, or try lmreread.
+Feature:       PROE_Educ1
+Vendor:Host:   proe.siue.edu
+License path:  7788@proe.siue.edu;
+FLEXnet Licensing error:-97,121
+For further information, refer to the FLEXnet Licensing End User Guide,
+available at "www.macrovision.com".
+
+                       License    In Use   Free   Version    Expire Date        SCN 
+                       -------    ------   ----   -------    -----------       -----
+                      MECFATUI        Expired       32.0     23-aug-2012     
+                     MECFATENG        Expired       32.0     23-aug-2012     
+                Mecui_Advanced        Expired       32.0     23-aug-2012     
+               Meceng_Advanced        Expired       32.0     23-aug-2012     
+             Pro/MEC-Cus-Loads        Expired       32.0     23-aug-2012     
+                    PROE_Educ1        Expired       32.0     23-aug-2012    8A1393747
+          ILINK_CLIENT_License        Expired        3.4     23-aug-2012    8A1393747
+           MECBASICENG_License        Expired       32.0     23-aug-2012    8A1393747
+            MECBASICUI_License        Expired       32.0     23-aug-2012    8A1393747
+            RSDESIGNER_License        Expired       10.0     23-aug-2012    8A1393747
+               VERICUT_License        Expired       32.0     23-aug-2012    8A1393747
+
+
